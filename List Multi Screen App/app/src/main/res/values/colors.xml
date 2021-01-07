@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="mainBackground">#FFF7DA</color>
+    <color name="colorNumbersCatagory">#FD8E09</color>
+
+    <color name="colorNames">#E61212</color>
+    <color name="colorNamesCatagory">#17EF08</color>
+
+    <color name="colorAudio">#F30DE8</color>
+    <color name="colorAudioCatagory">#372815</color>
+
+    <color name="colorVedio">#940DF4</color>
+    <color name="colorVedioCatagory">#1909FD</color>
+
+</resources>

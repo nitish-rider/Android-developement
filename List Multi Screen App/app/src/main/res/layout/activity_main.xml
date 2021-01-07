@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="@color/mainBackground"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/numbers"
+        android:layout_weight="0"
+        android:text="Numbers"
+        android:textSize="50sp"
+        android:textAlignment="center"
+        android:background="@color/colorNumbersCatagory"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Family"
+        android:id="@+id/names"
+        android:layout_weight="0"
+        android:textSize="50sp"
+        android:textAlignment="center"
+        android:background="@color/colorNames"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Colour"
+        android:id="@+id/audio"
+        android:layout_weight="0"
+        android:textSize="50sp"
+        android:textAlignment="center"
+        android:background="@color/colorAudio"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Phrases"
+        android:id="@+id/vedio"
+        android:layout_weight="0"
+        android:textSize="50sp"
+        android:textAlignment="center"
+        android:background="@color/colorVedio"
+        />
+
+</LinearLayout>
